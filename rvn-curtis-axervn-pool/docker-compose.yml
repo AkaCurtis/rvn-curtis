@@ -1,7 +1,7 @@
 services:
   app_proxy:
     environment:
-      APP_HOST: axervn-pool_server_1
+      APP_HOST: rvn-curtis-axervn-pool_server_1
       APP_PORT: 3000
 
   server:
